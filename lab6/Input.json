@@ -1,0 +1,14 @@
+[
+  {
+    "name" : "Скалы",
+    "direction": "n",
+    "weight": "43"
+  },
+
+  {
+    "name": "Полянка",
+    "direction": "s",
+    "weight" : "23"
+  },
+  {"name":"kek","direction":"w","weight": "100"}
+]
